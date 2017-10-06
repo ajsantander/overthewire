@@ -1,0 +1,22 @@
+{
+  "name": "overthewire",
+  "version": "1.0.0",
+  "description": "Personal playground for the overthewire wargames",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajsantander/overthewire.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajsantander/overthewire/issues"
+  },
+  "homepage": "https://github.com/ajsantander/overthewire#readme",
+  "dependencies": {
+    "text-frequencies-analysis": "^2.0.0"
+  }
+}

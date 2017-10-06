@@ -1,0 +1,108 @@
+Letter frequencies (ordered)
+E 445.2 B  12.49%  E
+T 330.5 B   9.28%  T
+A 286.5 B   8.04%  A
+O 272.3 B   7.64%  O
+I 269.7 B   7.57%  I
+N 257.8 B   7.23%  N
+S 232.1 B   6.51%  S
+R 223.8 B   6.28%  R
+H 180.1 B   5.05%  H
+L 145.0 B   4.07%  L
+D 136.0 B   3.82%  D
+C 119.2 B   3.34%  C
+U  97.3 B   2.73%  U
+M  89.5 B   2.51%  M
+F  85.6 B   2.40%  F
+P  76.1 B   2.14%  P
+G  66.6 B   1.87%  G
+W  59.7 B   1.68%  W
+Y  59.3 B   1.66%  Y
+B  52.9 B   1.48%  B
+V  37.5 B   1.05%  V
+K  19.3 B   0.54%  K
+X   8.4 B   0.23%  X
+J   5.7 B   0.16%  J
+Q   4.3 B   0.12%  Q
+Z   3.2 B   0.09%  Z
+
+Most common bigrams in english
+TH  100.3 B (3.56%)  TH
+HE   86.7 B (3.07%)  HE
+IN   68.6 B (2.43%)  IN
+ER   57.8 B (2.05%)  ER
+AN   56.0 B (1.99%)  AN
+RE   52.3 B (1.85%)  RE
+ON   49.6 B (1.76%)  ON
+AT   41.9 B (1.49%)  AT
+EN   41.0 B (1.45%)  EN
+ND   38.1 B (1.35%)  ND
+TI   37.9 B (1.34%)  TI
+ES   37.8 B (1.34%)  ES
+OR   36.0 B (1.28%)  OR
+TE   34.0 B (1.20%)  TE
+OF   33.1 B (1.17%)  OF
+ED   32.9 B (1.17%)  ED
+IS   31.8 B (1.13%)  IS
+IT   31.7 B (1.12%)  IT
+AL   30.7 B (1.09%)  AL
+AR   30.3 B (1.07%)  AR
+ST   29.7 B (1.05%)  ST
+TO   29.4 B (1.04%)  TO
+NT   29.4 B (1.04%)  NT
+NG   26.9 B (0.95%)  NG
+SE   26.3 B (0.93%)  SE
+HA   26.1 B (0.93%)  HA
+AS   24.6 B (0.87%)  AS
+OU   24.5 B (0.87%)  OU
+IO   23.5 B (0.83%)  IO
+LE   23.4 B (0.83%)  LE
+VE   23.3 B (0.83%)  VE
+CO   22.4 B (0.79%)  CO
+ME   22.4 B (0.79%)  ME
+DE   21.6 B (0.76%)  DE
+HI   21.5 B (0.76%)  HI
+RI   20.5 B (0.73%)  RI
+RO   20.5 B (0.73%)  RO
+IC   19.7 B (0.70%)  IC
+NE   19.5 B (0.69%)  NE
+EA   19.4 B (0.69%)  EA
+RA   19.3 B (0.69%)  RA
+CE   18.4 B (0.65%)  CE
+LI   17.6 B (0.62%)  LI
+CH   16.9 B (0.60%)  CH
+LL   16.3 B (0.58%)  LL
+BE   16.2 B (0.58%)  BE
+MA   15.9 B (0.57%)  MA
+SI   15.5 B (0.55%)  SI
+OM   15.4 B (0.55%)  OM
+UR   15.3 B (0.54%)  UR
+
+Most common repeats in english:
+SS, EE, TT, FF
+
+ENGLISH
+Order Of Frequency Of Single Letters
+E T A O I N S H R D L U
+Order Of Frequency Of Digraphs
+th er on an re he in ed nd ha at en es of or nt ea ti to it st io le is ou ar as de rt ve
+Order Of Frequency Of Trigraphs
+the and tha ent ion tio for nde has nce edt tis oft sth men
+Order Of Frequency Of Most Common Doubles
+ss ee tt ff ll mm oo
+Order Of Frequency Of Initial Letters
+T O A W B C D S F M R H I Y E G L N P U J K
+Order Of Frequency Of Final Letters
+E S T D N R Y F L O G H A K M P U W
+One-Letter Words
+a, I
+Most Frequent Two-Letter Words
+of, to, in, it, is, be, as, at, so, we, he, by, or, on, do, if, me, my, up, an, go, no, us, am
+Most Frequent Three-Letter Words
+the, and, for, are, but, not, you, all, any, can, had, her, was, one, our, out, day, get, has, him, his, how, man, new, now, old, see, two, way, who, boy, did, its, let, put, say, she, too, use
+Most Frequent Four-Letter Words
+that, with, have, this, will, your, from, they, know, want, been, good, much, some, time
+
+Useful tools:
+http://rumkin.com/tools/cipher/
+http://rumkin.com/tools/cipher/cryptogram.php

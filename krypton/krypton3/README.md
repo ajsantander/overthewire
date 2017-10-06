@@ -1,3 +1,5 @@
+// README.md
+
 Well done.  You've moved past an easy substitution cipher.
 
 Hopefully you just encrypted the alphabet a plaintext
@@ -21,3 +23,10 @@ You know the following important details:
 
 
 Enjoy.
+
+// HINT1
+Some letters are more prevalent in English than others.
+
+// HINT2
+"Frequency Analysis" is your friend.
+https://en.wikipedia.org/wiki/Frequency_analysis
