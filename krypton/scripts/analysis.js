@@ -8,7 +8,7 @@ const fs = require('fs');
 * - Frequency of bigrams (pairs).
 * */
 
-const input = fs.readFileSync('./input', 'utf8').replace(new RegExp(' ', 'g'), '');
+const input = fs.readFileSync('../krypton4/idx_5', 'utf8').replace(new RegExp(' ', 'g'), '');
 // const input = "ABCDEDEABAAA";
 
 // Variation of tfa's countPairs method that doesn't consider
@@ -38,19 +38,19 @@ tfa.countRepeasts = function pairs(text, regex) {
 }
 
 const charsCounts = tfa.countEach(input.split(''));
-console.log('charsCounts:', charsCounts);
+// console.log('charsCounts:', charsCounts);
 
 const charPercentages = tfa.relative(charsCounts);
 console.log('charPercentages:', charPercentages);
 
 const bigramCount = tfa.countPairsSimple(input, new RegExp('^[A-Z]{2}$', ''));
-console.log('bigramCount:', bigramCount);
+// console.log('bigramCount:', bigramCount);
 
 const bigramPercentages = tfa.relative(bigramCount);
 console.log('bigramPercentages:', bigramPercentages);
 
-const repeatsCount = tfa.countRepeasts(input, new RegExp('^[A-Z]{2}$', ''));
-console.log('repeatsCount:', repeatsCount);
+// const repeatsCount = tfa.countRepeasts(input, new RegExp('^[A-Z]{2}$', ''));
+// console.log('repeatsCount:', repeatsCount);
 
-const repeatPercentages = tfa.relative(repeatsCount);
-console.log('repeatPercentages:', repeatPercentages);
+// const repeatPercentages = tfa.relative(repeatsCount);
+// console.log('repeatPercentages:', repeatPercentages);

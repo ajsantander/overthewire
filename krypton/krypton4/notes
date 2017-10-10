@@ -1,0 +1,41 @@
+Frequency analysis:
+
+english
+E, T, A, O
+TH, ER, ON, AN
+
+idx_0
+J, T, Y, S
+JN, JT, SJ, IM
+J -> E
+offset: 5
+
+idx_1
+V, K, R, F
+RC, VK, YV, FV
+V -> E
+offset: 17
+
+idx_2
+I, X, S, L
+IX, XI, IS, VX
+I -> E
+offset: 4
+
+idx_3
+O, D, K, B
+OD, DO, RO, CB
+O -> E
+offset: 10
+
+idx_4
+I, X, S, L
+XI, IE, SX, ES
+I -> E
+offset: 4
+
+idx_5
+C, R, M, F
+CR, FY, LC, PL
+C -> E
+offset: 24
