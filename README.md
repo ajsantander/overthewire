@@ -2,7 +2,7 @@
 Personal playground for overthewire wargames
 
 # Passwords
-Passwords are stored for each level, but encoded with keybase =}
+Passwords are stored for each level, encoded with keybase =}
 
 To decrypt:
 ```
