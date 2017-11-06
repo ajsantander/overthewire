@@ -1,5 +1,5 @@
 # Overthewire
-Personal playground for overthewire wargames
+Personal playground for overthewire wargames.
 
 # Passwords
 Passwords are stored for each level, encoded with keybase =}
